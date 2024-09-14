@@ -1,0 +1,41 @@
+
+    body {
+    background-color : maroon;    
+    }
+    
+    h1 {
+    font-weight : bold;
+    color : white;
+    border : solid 2px white;
+    text-align: center;
+    margin: auto;
+  width: 230px; 
+  padding: 10px;
+    }
+    
+    p {
+    color : white;
+    font-weight : bold;
+    }
+    
+    legend {
+    color : white;
+    font-weight : bold;
+    }
+    
+    summary {
+    color : white;
+    font-weight : bold;
+    }
+    
+    .important {
+    font-style : italic;
+    font-family : courier new;
+    font-size : 5px;
+    }
+    
+    .video {
+    height : 250px;
+    width : 350px;
+    }
+  
